@@ -1,5 +1,10 @@
 # CST8919 – DevOps Security & Compliance  
 
+Student Name: Xihai Ren
+Course: 25S_CST8919_300 DevOps - Security and Compliance
+Professor: Ramy Mohamed
+Date: Aug 15, 2025
+
 
 ## Azure, AWS, and GCP Service Comparison
 
